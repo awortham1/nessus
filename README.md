@@ -4,7 +4,7 @@ Nessus Vulnerability Management
 -->
 ![](images/Tenable%2BNessus%2Bbanner.png)
 
-# Nessus Tutorial | Vulnerability Management (make your resume standout)
+# Nessus Vulnerability Management | Scanning and Remediation
 ### Learning objectives:
 1. Provisioning and deprovisioning virtual environments within VMware.
 2. Run initial vulnerability scan using Nessus against vm and observe results.
