@@ -228,11 +228,12 @@ KEY TAKE AWAY: with the inclusion of depreciated software we saw a 13x jump in c
 - Simply updating Windows remediated more than half of our high vulnerabilities.
 
 ## Final Step: Further Possible remediations
-- take a look at the Vulnerabilities tab 
+- Take a look at the Vulnerabilities tab 
 - Internet explorer still has some high/mixed vulnerabilities. 
 - What else can we do to take care of these vulnerabilities? Possibly more updates …
 
 ![](images/S15.png)
+
 
 
 
