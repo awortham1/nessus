@@ -16,7 +16,7 @@ Nessus Vulnerability Management
 * Nessus Essentials 
 * Windows ISO + Firefox 3.6.12
 
-> NOTE: This lab will be done on a Windows machine.
+> NOTE: This lab will be done on a Windows machine
  
 ### Overview:
 ![](images/nessus_overview.png)
